@@ -13,7 +13,7 @@ provider "aws" {
 
 variable "terrateam-bucket01" {
   type    = string
-  default = "terrateam-dev-bucket-trial2"
+  default = "terrateam-dev-bucket-trial22"
 
 }
 
